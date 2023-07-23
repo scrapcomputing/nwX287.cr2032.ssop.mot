@@ -26,6 +26,8 @@ The latest `.mot` revision of the board features a solder jumper that connects t
 
 ## Bill of Materials
 
+Gerber files are published in the releases: https://github.com/scrapcomputing/nwX287.cr2032.ssop.mot/releases
+
 Part | # | Description
 -----|---|-----------------------------------------
 U1   | 1 | Real-Time Clock BQ3285S or BQ4285S SSOP-24
