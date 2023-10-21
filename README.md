@@ -11,6 +11,7 @@ This is a modified version of Necroware's nwX287 RTC module with the following f
 For detailed information about the project, please refer to Necroware's original page: https://github.com/necroware/nwX287
 
 ## Videos
+- Building this module: https://www.youtube.com/watch?v=k7J6g3XWbXA
 - Necroware's original video: https://www.youtube.com/watch?v=svPNxILeQEw
 
 ## J1 Intel/Motorola mode for BQ3285
